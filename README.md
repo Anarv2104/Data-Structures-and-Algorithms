@@ -16,7 +16,7 @@ This repository contains my structured Data Structures & Algorithms preparation 
 
 ---
 
-## 🧠 Topics Covered
+## 🧠 Topics Covered/Planned
 
 - [x] Arrays & Prefix Sums  
 - [x] Strings & Sliding Window  
@@ -26,8 +26,8 @@ This repository contains my structured Data Structures & Algorithms preparation 
 - [x] Trees & BST  
 - [x] Recursion & Backtracking  
 - [x] Binary Search  
-- [ ] Graphs (Coming Soon)  
-- [ ] Dynamic Programming (Planned After Core DSA)  
+- [ ] Graphs  
+- [ ] Dynamic Programming 
 
 ---
 
